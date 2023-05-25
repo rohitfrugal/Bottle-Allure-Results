@@ -1,0 +1,53 @@
+ERROR    __init__:InventoryPage.py:103 leather 0012912 not found
+ERROR    __init__:InventoryPage.py:103 Test Leather not found
+ERROR    __init__:InventoryPage.py:103 TAT11B not found
+ERROR    __init__:InventoryPage.py:103 Automation Testing Category not found
+ERROR    __init__:InventoryPage.py:103 Test Category not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
