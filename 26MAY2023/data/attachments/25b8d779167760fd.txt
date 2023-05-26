@@ -1,0 +1,67 @@
+ERROR    __init__:InventoryPage.py:103 (Automation) Item 5 not found
+ERROR    __init__:InventoryPage.py:103 (Automation) Item 4 not found
+ERROR    __init__:InventoryPage.py:103 (Automation) Item 3 not found
+ERROR    __init__:InventoryPage.py:103 (Automation) Item 2 not found
+ERROR    __init__:InventoryPage.py:103 (Automation) Item 1 not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryPage.py:103  not found
+ERROR    __init__:InventoryMethods.py:36 Inventory Item already Present in the DB
+ERROR    TestInventory:TestInventory.py:63 Assertion failed here while finding element. False != True : Adding a New Category Failed
