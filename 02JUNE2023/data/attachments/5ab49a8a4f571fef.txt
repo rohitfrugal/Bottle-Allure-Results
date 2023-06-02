@@ -1,0 +1,4 @@
+ERROR    __init__:InventoryPage.py:103 (Automation) Item 30 not found
+ERROR    __init__:InventoryPage.py:103 (Automation) Item 29 not found
+ERROR    __init__:InventoryPage.py:103 (Automation) Item 28 not found
+ERROR    __init__:InventoryPage.py:103 (Automation) Item 27 not found
