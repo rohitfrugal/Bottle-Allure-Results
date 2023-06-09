@@ -1,0 +1,18 @@
+INFO     Order_executions:OrderMethods.py:108 Selecting : Ek (male) and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:111 Selecting : Black Sheep  and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:115 Selecting : 38 and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:118 Selecting : Silver  and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:121 Selecting : Black  and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:124 Selecting : No  and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:171 Selecting : 40 and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:174 Selecting : Fit and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:177 Selecting : 8 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:180 Selecting : 7 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:183 Selecting : 33 and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:186 Selecting : 11 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:189 Selecting : 5 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:192 Selecting : 9 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:195 Selecting : 12 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:198 Selecting : 46 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:201 Selecting : 6 and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:204 Selecting : 5.6 and it is of "<class 'float'>" type
