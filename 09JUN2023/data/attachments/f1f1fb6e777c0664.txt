@@ -1,0 +1,45 @@
+ERROR    Order_module:OrderPage.py:164 Occurred in Female selections Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x002CA813+48355]
+	(No symbol) [0x0025C4B1]
+	(No symbol) [0x00165358]
+	(No symbol) [0x001909A5]
+	(No symbol) [0x00190B3B]
+	(No symbol) [0x001BE232]
+	(No symbol) [0x001AA784]
+	(No symbol) [0x001BC922]
+	(No symbol) [0x001AA536]
+	(No symbol) [0x001882DC]
+	(No symbol) [0x001893DD]
+	GetHandleVerifier [0x0052AABD+2539405]
+	GetHandleVerifier [0x0056A78F+2800735]
+	GetHandleVerifier [0x0056456C+2775612]
+	GetHandleVerifier [0x003551E0+616112]
+	(No symbol) [0x00265F8C]
+	(No symbol) [0x00262328]
+	(No symbol) [0x0026240B]
+	(No symbol) [0x00254FF7]
+	BaseThreadInitThunk [0x76597D59+25]
+	RtlInitializeExceptionChain [0x7706B74B+107]
+	RtlClearBits [0x7706B6CF+191]
+	(No symbol) [0x00000000]
+
+INFO     Order_executions:OrderMethods.py:87 Selecting : Luigi (male) and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:90 Selecting : Mahogany Antique  and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:94 Selecting : 41 and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:97 Selecting : Golden Antique  and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:100 Selecting : Black  and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:103 Selecting : Yes  and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:131 Selecting : 40 and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:134 Selecting : 5.6 and it is of "<class 'float'>" type
+INFO     Order_executions:OrderMethods.py:137 Selecting : 4.4 and it is of "<class 'float'>" type
+INFO     Order_executions:OrderMethods.py:140 Selecting : 5 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:143 Selecting : 46 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:146 Selecting : 8 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:149 Selecting : 12 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:152 Selecting : 11 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:155 Selecting : 7 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:158 Selecting : 1 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:161 Selecting : 9 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:164 Selecting : Comfort and it is of "<class 'str'>" type
