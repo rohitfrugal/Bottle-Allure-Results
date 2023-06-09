@@ -1,0 +1,153 @@
+ERROR    Order_module:OrderPage.py:157 Occurred in Male selections Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x002CA813+48355]
+	(No symbol) [0x0025C4B1]
+	(No symbol) [0x00165358]
+	(No symbol) [0x001909A5]
+	(No symbol) [0x00190B3B]
+	(No symbol) [0x001BE232]
+	(No symbol) [0x001AA784]
+	(No symbol) [0x001BC922]
+	(No symbol) [0x001AA536]
+	(No symbol) [0x001882DC]
+	(No symbol) [0x001893DD]
+	GetHandleVerifier [0x0052AABD+2539405]
+	GetHandleVerifier [0x0056A78F+2800735]
+	GetHandleVerifier [0x0056456C+2775612]
+	GetHandleVerifier [0x003551E0+616112]
+	(No symbol) [0x00265F8C]
+	(No symbol) [0x00262328]
+	(No symbol) [0x0026240B]
+	(No symbol) [0x00254FF7]
+	BaseThreadInitThunk [0x76597D59+25]
+	RtlInitializeExceptionChain [0x7706B74B+107]
+	RtlClearBits [0x7706B6CF+191]
+	(No symbol) [0x00000000]
+
+INFO     Order_executions:OrderMethods.py:87 Selecting : Ek (male) and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:90 Selecting : Black Sheep  and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:94 Selecting : 38 and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:97 Selecting : Silver  and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:100 Selecting : Black  and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:103 Selecting : No  and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:131 Selecting : 40 and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:134 Selecting : 5.6 and it is of "<class 'float'>" type
+INFO     Order_executions:OrderMethods.py:137 Selecting : 4.4 and it is of "<class 'float'>" type
+INFO     Order_executions:OrderMethods.py:140 Selecting : 5 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:143 Selecting : 46 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:146 Selecting : 8 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:149 Selecting : 12 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:152 Selecting : 11 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:155 Selecting : 7 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:158 Selecting : 1 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:161 Selecting : 9 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:164 Selecting : Fit and it is of "<class 'str'>" type
+ERROR    Order_module:Payments.py:95 Failed to get Header Text Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x002CA813+48355]
+	(No symbol) [0x0025C4B1]
+	(No symbol) [0x00165358]
+	(No symbol) [0x001909A5]
+	(No symbol) [0x00190B3B]
+	(No symbol) [0x001BE232]
+	(No symbol) [0x001AA784]
+	(No symbol) [0x001BC922]
+	(No symbol) [0x001AA536]
+	(No symbol) [0x001882DC]
+	(No symbol) [0x001893DD]
+	GetHandleVerifier [0x0052AABD+2539405]
+	GetHandleVerifier [0x0056A78F+2800735]
+	GetHandleVerifier [0x0056456C+2775612]
+	GetHandleVerifier [0x003551E0+616112]
+	(No symbol) [0x00265F8C]
+	(No symbol) [0x00262328]
+	(No symbol) [0x0026240B]
+	(No symbol) [0x00254FF7]
+	BaseThreadInitThunk [0x76597D59+25]
+	RtlInitializeExceptionChain [0x7706B74B+107]
+	RtlClearBits [0x7706B6CF+191]
+	(No symbol) [0x00000000]
+
+ERROR    Order_module:Payments.py:103 Failed to Enter the OTP Message: no such element: Unable to locate element: {"method":"xpath","selector":"//form/input[@class="ant-input input-field"]"}
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x002CA813+48355]
+	(No symbol) [0x0025C4B1]
+	(No symbol) [0x00165358]
+	(No symbol) [0x001909A5]
+	(No symbol) [0x00190B3B]
+	(No symbol) [0x001BE232]
+	(No symbol) [0x001AA784]
+	(No symbol) [0x001BC922]
+	(No symbol) [0x001AA536]
+	(No symbol) [0x001882DC]
+	(No symbol) [0x001893DD]
+	GetHandleVerifier [0x0052AABD+2539405]
+	GetHandleVerifier [0x0056A78F+2800735]
+	GetHandleVerifier [0x0056456C+2775612]
+	GetHandleVerifier [0x003551E0+616112]
+	(No symbol) [0x00265F8C]
+	(No symbol) [0x00262328]
+	(No symbol) [0x0026240B]
+	(No symbol) [0x00254FF7]
+	BaseThreadInitThunk [0x76597D59+25]
+	RtlInitializeExceptionChain [0x7706B74B+107]
+	RtlClearBits [0x7706B6CF+191]
+	(No symbol) [0x00000000]
+
+ERROR    Order_module:Payments.py:110 Failed to Submit the OTP Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x002CA813+48355]
+	(No symbol) [0x0025C4B1]
+	(No symbol) [0x00165358]
+	(No symbol) [0x001909A5]
+	(No symbol) [0x00190B3B]
+	(No symbol) [0x001BE232]
+	(No symbol) [0x001AA784]
+	(No symbol) [0x001BC922]
+	(No symbol) [0x001AA536]
+	(No symbol) [0x001882DC]
+	(No symbol) [0x001893DD]
+	GetHandleVerifier [0x0052AABD+2539405]
+	GetHandleVerifier [0x0056A78F+2800735]
+	GetHandleVerifier [0x0056456C+2775612]
+	GetHandleVerifier [0x003551E0+616112]
+	(No symbol) [0x00265F8C]
+	(No symbol) [0x00262328]
+	(No symbol) [0x0026240B]
+	(No symbol) [0x00254FF7]
+	BaseThreadInitThunk [0x76597D59+25]
+	RtlInitializeExceptionChain [0x7706B74B+107]
+	RtlClearBits [0x7706B6CF+191]
+	(No symbol) [0x00000000]
+
+ERROR    Order_module:Payments.py:119 Failed to Verify Order Submission Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x002CA813+48355]
+	(No symbol) [0x0025C4B1]
+	(No symbol) [0x00165358]
+	(No symbol) [0x001909A5]
+	(No symbol) [0x00190B3B]
+	(No symbol) [0x001BE232]
+	(No symbol) [0x001AA784]
+	(No symbol) [0x001BC922]
+	(No symbol) [0x001AA536]
+	(No symbol) [0x001882DC]
+	(No symbol) [0x001893DD]
+	GetHandleVerifier [0x0052AABD+2539405]
+	GetHandleVerifier [0x0056A78F+2800735]
+	GetHandleVerifier [0x0056456C+2775612]
+	GetHandleVerifier [0x003551E0+616112]
+	(No symbol) [0x00265F8C]
+	(No symbol) [0x00262328]
+	(No symbol) [0x0026240B]
+	(No symbol) [0x00254FF7]
+	BaseThreadInitThunk [0x76597D59+25]
+	RtlInitializeExceptionChain [0x7706B74B+107]
+	RtlClearBits [0x7706B6CF+191]
+	(No symbol) [0x00000000]
