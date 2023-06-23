@@ -1,0 +1,125 @@
+INFO     Order_executions:OrderMethods.py:108 Selecting : Lucha (male) and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:111 Selecting : Mahogany Antique  and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:115 Selecting : 40 and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:118 Selecting : Silver  and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:121 Selecting : Black  and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:124 Selecting : No  and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:171 Selecting : 40 and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:174 Selecting : General Fit and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:177 Selecting : 8 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:180 Selecting : 7 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:183 Selecting : 35 and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:186 Selecting : 11 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:189 Selecting : 5 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:192 Selecting : 9 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:195 Selecting : 12 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:198 Selecting : 46 and it is of "<class 'int'>" type
+INFO     Order_executions:OrderMethods.py:201 Selecting : 8 and it is of "<class 'str'>" type
+INFO     Order_executions:OrderMethods.py:204 Selecting : 5.6 and it is of "<class 'float'>" type
+ERROR    Order_module:PaymentsStore.py:109 Couldn't find the Element to Verify Order Submit : 
+ Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x005DA813+48355]
+	(No symbol) [0x0056C4B1]
+	(No symbol) [0x00475358]
+	(No symbol) [0x004A09A5]
+	(No symbol) [0x004A0B3B]
+	(No symbol) [0x004CE232]
+	(No symbol) [0x004BA784]
+	(No symbol) [0x004CC922]
+	(No symbol) [0x004BA536]
+	(No symbol) [0x004982DC]
+	(No symbol) [0x004993DD]
+	GetHandleVerifier [0x0083AABD+2539405]
+	GetHandleVerifier [0x0087A78F+2800735]
+	GetHandleVerifier [0x0087456C+2775612]
+	GetHandleVerifier [0x006651E0+616112]
+	(No symbol) [0x00575F8C]
+	(No symbol) [0x00572328]
+	(No symbol) [0x0057240B]
+	(No symbol) [0x00564FF7]
+	BaseThreadInitThunk [0x772D7D59+25]
+	RtlInitializeExceptionChain [0x77D6B74B+107]
+	RtlClearBits [0x77D6B6CF+191]
+
+ERROR    Order_module:OrderList.py:57 Couldn't find the Element for Navigation to Order List : 
+ Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x005DA813+48355]
+	(No symbol) [0x0056C4B1]
+	(No symbol) [0x00475358]
+	(No symbol) [0x004A09A5]
+	(No symbol) [0x004A0B3B]
+	(No symbol) [0x004CE232]
+	(No symbol) [0x004BA784]
+	(No symbol) [0x004CC922]
+	(No symbol) [0x004BA536]
+	(No symbol) [0x004982DC]
+	(No symbol) [0x004993DD]
+	GetHandleVerifier [0x0083AABD+2539405]
+	GetHandleVerifier [0x0087A78F+2800735]
+	GetHandleVerifier [0x0087456C+2775612]
+	GetHandleVerifier [0x006651E0+616112]
+	(No symbol) [0x00575F8C]
+	(No symbol) [0x00572328]
+	(No symbol) [0x0057240B]
+	(No symbol) [0x00564FF7]
+	BaseThreadInitThunk [0x772D7D59+25]
+	RtlInitializeExceptionChain [0x77D6B74B+107]
+	RtlClearBits [0x77D6B6CF+191]
+
+ERROR    Order_module:OrderList.py:69 Couldn't find the Element for Navigation to Store : 
+ Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x005DA813+48355]
+	(No symbol) [0x0056C4B1]
+	(No symbol) [0x00475358]
+	(No symbol) [0x004A09A5]
+	(No symbol) [0x004A0B3B]
+	(No symbol) [0x004CE232]
+	(No symbol) [0x004BA784]
+	(No symbol) [0x004CC922]
+	(No symbol) [0x004BA536]
+	(No symbol) [0x004982DC]
+	(No symbol) [0x004993DD]
+	GetHandleVerifier [0x0083AABD+2539405]
+	GetHandleVerifier [0x0087A78F+2800735]
+	GetHandleVerifier [0x0087456C+2775612]
+	GetHandleVerifier [0x006651E0+616112]
+	(No symbol) [0x00575F8C]
+	(No symbol) [0x00572328]
+	(No symbol) [0x0057240B]
+	(No symbol) [0x00564FF7]
+	BaseThreadInitThunk [0x772D7D59+25]
+	RtlInitializeExceptionChain [0x77D6B74B+107]
+	RtlClearBits [0x77D6B6CF+191]
+
+ERROR    Order_module:OrderList.py:81 Couldn't find the Element for Latest Store ID : 
+ Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x005DA813+48355]
+	(No symbol) [0x0056C4B1]
+	(No symbol) [0x00475358]
+	(No symbol) [0x004A09A5]
+	(No symbol) [0x004A0B3B]
+	(No symbol) [0x004CE232]
+	(No symbol) [0x004BA784]
+	(No symbol) [0x004CC922]
+	(No symbol) [0x004BA536]
+	(No symbol) [0x004982DC]
+	(No symbol) [0x004993DD]
+	GetHandleVerifier [0x0083AABD+2539405]
+	GetHandleVerifier [0x0087A78F+2800735]
+	GetHandleVerifier [0x0087456C+2775612]
+	GetHandleVerifier [0x006651E0+616112]
+	(No symbol) [0x00575F8C]
+	(No symbol) [0x00572328]
+	(No symbol) [0x0057240B]
+	(No symbol) [0x00564FF7]
+	BaseThreadInitThunk [0x772D7D59+25]
+	RtlInitializeExceptionChain [0x77D6B74B+107]
+	RtlClearBits [0x77D6B6CF+191]
