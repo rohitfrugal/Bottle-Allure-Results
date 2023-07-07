@@ -1,0 +1,296 @@
+ERROR    Inventory:InventoryPage.py:362 Couldn't find the Element to select Vendor: 
+ Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0093A813+48355]
+	(No symbol) [0x008CC4B1]
+	(No symbol) [0x007D5358]
+	(No symbol) [0x007BD293]
+	(No symbol) [0x0081E37B]
+	(No symbol) [0x0082C473]
+	(No symbol) [0x0081A536]
+	(No symbol) [0x007F82DC]
+	(No symbol) [0x007F93DD]
+	GetHandleVerifier [0x00B9AABD+2539405]
+	GetHandleVerifier [0x00BDA78F+2800735]
+	GetHandleVerifier [0x00BD456C+2775612]
+	GetHandleVerifier [0x009C51E0+616112]
+	(No symbol) [0x008D5F8C]
+	(No symbol) [0x008D2328]
+	(No symbol) [0x008D240B]
+	(No symbol) [0x008C4FF7]
+	BaseThreadInitThunk [0x75D67D59+25]
+	RtlInitializeExceptionChain [0x7796B79B+107]
+	RtlClearBits [0x7796B71F+191]
+
+ERROR    Inventory:InventoryPage.py:368 Couldn't find the Element to input Price: 
+ Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0093A813+48355]
+	(No symbol) [0x008CC4B1]
+	(No symbol) [0x007D5358]
+	(No symbol) [0x007BD293]
+	(No symbol) [0x0081E37B]
+	(No symbol) [0x0082C473]
+	(No symbol) [0x0081A536]
+	(No symbol) [0x007F82DC]
+	(No symbol) [0x007F93DD]
+	GetHandleVerifier [0x00B9AABD+2539405]
+	GetHandleVerifier [0x00BDA78F+2800735]
+	GetHandleVerifier [0x00BD456C+2775612]
+	GetHandleVerifier [0x009C51E0+616112]
+	(No symbol) [0x008D5F8C]
+	(No symbol) [0x008D2328]
+	(No symbol) [0x008D240B]
+	(No symbol) [0x008C4FF7]
+	BaseThreadInitThunk [0x75D67D59+25]
+	RtlInitializeExceptionChain [0x7796B79B+107]
+	RtlClearBits [0x7796B71F+191]
+
+ERROR    Inventory:InventoryPage.py:374 Couldn't find the Element to enter Date : 
+ Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0093A813+48355]
+	(No symbol) [0x008CC4B1]
+	(No symbol) [0x007D5358]
+	(No symbol) [0x007BD293]
+	(No symbol) [0x0081E37B]
+	(No symbol) [0x0082C473]
+	(No symbol) [0x0081A536]
+	(No symbol) [0x007F82DC]
+	(No symbol) [0x007F93DD]
+	GetHandleVerifier [0x00B9AABD+2539405]
+	GetHandleVerifier [0x00BDA78F+2800735]
+	GetHandleVerifier [0x00BD456C+2775612]
+	GetHandleVerifier [0x009C51E0+616112]
+	(No symbol) [0x008D5F8C]
+	(No symbol) [0x008D2328]
+	(No symbol) [0x008D240B]
+	(No symbol) [0x008C4FF7]
+	BaseThreadInitThunk [0x75D67D59+25]
+	RtlInitializeExceptionChain [0x7796B79B+107]
+	RtlClearBits [0x7796B71F+191]
+
+ERROR    Inventory:InventoryPage.py:380 Couldn't find the Element to enter the quantity : 
+ Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0093A813+48355]
+	(No symbol) [0x008CC4B1]
+	(No symbol) [0x007D5358]
+	(No symbol) [0x007BD293]
+	(No symbol) [0x0081E37B]
+	(No symbol) [0x0082C473]
+	(No symbol) [0x0081A536]
+	(No symbol) [0x007F82DC]
+	(No symbol) [0x007F93DD]
+	GetHandleVerifier [0x00B9AABD+2539405]
+	GetHandleVerifier [0x00BDA78F+2800735]
+	GetHandleVerifier [0x00BD456C+2775612]
+	GetHandleVerifier [0x009C51E0+616112]
+	(No symbol) [0x008D5F8C]
+	(No symbol) [0x008D2328]
+	(No symbol) [0x008D240B]
+	(No symbol) [0x008C4FF7]
+	BaseThreadInitThunk [0x75D67D59+25]
+	RtlInitializeExceptionChain [0x7796B79B+107]
+	RtlClearBits [0x7796B71F+191]
+
+ERROR    Inventory:InventoryPage.py:388 Couldn't find the Element to input Quality: 
+ Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0093A813+48355]
+	(No symbol) [0x008CC4B1]
+	(No symbol) [0x007D5358]
+	(No symbol) [0x007BD293]
+	(No symbol) [0x0081E37B]
+	(No symbol) [0x0082C473]
+	(No symbol) [0x0081A536]
+	(No symbol) [0x007F82DC]
+	(No symbol) [0x007F93DD]
+	GetHandleVerifier [0x00B9AABD+2539405]
+	GetHandleVerifier [0x00BDA78F+2800735]
+	GetHandleVerifier [0x00BD456C+2775612]
+	GetHandleVerifier [0x009C51E0+616112]
+	(No symbol) [0x008D5F8C]
+	(No symbol) [0x008D2328]
+	(No symbol) [0x008D240B]
+	(No symbol) [0x008C4FF7]
+	BaseThreadInitThunk [0x75D67D59+25]
+	RtlInitializeExceptionChain [0x7796B79B+107]
+	RtlClearBits [0x7796B71F+191]
+
+ERROR    Inventory:InventoryPage.py:396 Couldn't find the Element to Select Transportation mode: 
+ Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0093A813+48355]
+	(No symbol) [0x008CC4B1]
+	(No symbol) [0x007D5358]
+	(No symbol) [0x007BD293]
+	(No symbol) [0x0081E37B]
+	(No symbol) [0x0082C473]
+	(No symbol) [0x0081A536]
+	(No symbol) [0x007F82DC]
+	(No symbol) [0x007F93DD]
+	GetHandleVerifier [0x00B9AABD+2539405]
+	GetHandleVerifier [0x00BDA78F+2800735]
+	GetHandleVerifier [0x00BD456C+2775612]
+	GetHandleVerifier [0x009C51E0+616112]
+	(No symbol) [0x008D5F8C]
+	(No symbol) [0x008D2328]
+	(No symbol) [0x008D240B]
+	(No symbol) [0x008C4FF7]
+	BaseThreadInitThunk [0x75D67D59+25]
+	RtlInitializeExceptionChain [0x7796B79B+107]
+	RtlClearBits [0x7796B71F+191]
+
+ERROR    Inventory:InventoryPage.py:404 Couldn't find the Element to input Payment MethodSS: 
+ Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0093A813+48355]
+	(No symbol) [0x008CC4B1]
+	(No symbol) [0x007D5358]
+	(No symbol) [0x007BD293]
+	(No symbol) [0x0081E37B]
+	(No symbol) [0x0082C473]
+	(No symbol) [0x0081A536]
+	(No symbol) [0x007F82DC]
+	(No symbol) [0x007F93DD]
+	GetHandleVerifier [0x00B9AABD+2539405]
+	GetHandleVerifier [0x00BDA78F+2800735]
+	GetHandleVerifier [0x00BD456C+2775612]
+	GetHandleVerifier [0x009C51E0+616112]
+	(No symbol) [0x008D5F8C]
+	(No symbol) [0x008D2328]
+	(No symbol) [0x008D240B]
+	(No symbol) [0x008C4FF7]
+	BaseThreadInitThunk [0x75D67D59+25]
+	RtlInitializeExceptionChain [0x7796B79B+107]
+	RtlClearBits [0x7796B71F+191]
+
+ERROR    Inventory:InventoryPage.py:415 Couldn't find the Element to Input receiver name : 
+ Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0093A813+48355]
+	(No symbol) [0x008CC4B1]
+	(No symbol) [0x007D5358]
+	(No symbol) [0x007BD293]
+	(No symbol) [0x0081E37B]
+	(No symbol) [0x0082C473]
+	(No symbol) [0x0081A536]
+	(No symbol) [0x007F82DC]
+	(No symbol) [0x007F93DD]
+	GetHandleVerifier [0x00B9AABD+2539405]
+	GetHandleVerifier [0x00BDA78F+2800735]
+	GetHandleVerifier [0x00BD456C+2775612]
+	GetHandleVerifier [0x009C51E0+616112]
+	(No symbol) [0x008D5F8C]
+	(No symbol) [0x008D2328]
+	(No symbol) [0x008D240B]
+	(No symbol) [0x008C4FF7]
+	BaseThreadInitThunk [0x75D67D59+25]
+	RtlInitializeExceptionChain [0x7796B79B+107]
+	RtlClearBits [0x7796B71F+191]
+
+ERROR    Inventory:InventoryPage.py:422 Couldn't find the Element to Upload Bill : 
+ Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0093A813+48355]
+	(No symbol) [0x008CC4B1]
+	(No symbol) [0x007D5358]
+	(No symbol) [0x007BD293]
+	(No symbol) [0x0081E37B]
+	(No symbol) [0x0082C473]
+	(No symbol) [0x0081A536]
+	(No symbol) [0x007F82DC]
+	(No symbol) [0x007F93DD]
+	GetHandleVerifier [0x00B9AABD+2539405]
+	GetHandleVerifier [0x00BDA78F+2800735]
+	GetHandleVerifier [0x00BD456C+2775612]
+	GetHandleVerifier [0x009C51E0+616112]
+	(No symbol) [0x008D5F8C]
+	(No symbol) [0x008D2328]
+	(No symbol) [0x008D240B]
+	(No symbol) [0x008C4FF7]
+	BaseThreadInitThunk [0x75D67D59+25]
+	RtlInitializeExceptionChain [0x7796B79B+107]
+	RtlClearBits [0x7796B71F+191]
+
+ERROR    Inventory:InventoryPage.py:428 Couldn't find the Element to click Next : 
+ Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0093A813+48355]
+	(No symbol) [0x008CC4B1]
+	(No symbol) [0x007D5358]
+	(No symbol) [0x007BD293]
+	(No symbol) [0x0081E37B]
+	(No symbol) [0x0082C473]
+	(No symbol) [0x0081A536]
+	(No symbol) [0x007F82DC]
+	(No symbol) [0x007F93DD]
+	GetHandleVerifier [0x00B9AABD+2539405]
+	GetHandleVerifier [0x00BDA78F+2800735]
+	GetHandleVerifier [0x00BD456C+2775612]
+	GetHandleVerifier [0x009C51E0+616112]
+	(No symbol) [0x008D5F8C]
+	(No symbol) [0x008D2328]
+	(No symbol) [0x008D240B]
+	(No symbol) [0x008C4FF7]
+	BaseThreadInitThunk [0x75D67D59+25]
+	RtlInitializeExceptionChain [0x7796B79B+107]
+	RtlClearBits [0x7796B71F+191]
+
+ERROR    Inventory:InventoryPage.py:434 Couldn't find the Element to Click on Submit : 
+ Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0093A813+48355]
+	(No symbol) [0x008CC4B1]
+	(No symbol) [0x007D5358]
+	(No symbol) [0x007BD293]
+	(No symbol) [0x0081E37B]
+	(No symbol) [0x0082C473]
+	(No symbol) [0x0081A536]
+	(No symbol) [0x007F82DC]
+	(No symbol) [0x007F93DD]
+	GetHandleVerifier [0x00B9AABD+2539405]
+	GetHandleVerifier [0x00BDA78F+2800735]
+	GetHandleVerifier [0x00BD456C+2775612]
+	GetHandleVerifier [0x009C51E0+616112]
+	(No symbol) [0x008D5F8C]
+	(No symbol) [0x008D2328]
+	(No symbol) [0x008D240B]
+	(No symbol) [0x008C4FF7]
+	BaseThreadInitThunk [0x75D67D59+25]
+	RtlInitializeExceptionChain [0x7796B79B+107]
+	RtlClearBits [0x7796B71F+191]

@@ -1,0 +1,28 @@
+ERROR    Inventory:InventoryPage.py:396 Couldn't find the Element to Select Transportation mode: 
+ Message: element not interactable
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0093A813+48355]
+	(No symbol) [0x008CC4B1]
+	(No symbol) [0x007D5220]
+	(No symbol) [0x00801846]
+	(No symbol) [0x007F9F5C]
+	(No symbol) [0x0081A73C]
+	(No symbol) [0x007F9A36]
+	(No symbol) [0x0081AA94]
+	(No symbol) [0x0082C922]
+	(No symbol) [0x0081A536]
+	(No symbol) [0x007F82DC]
+	(No symbol) [0x007F93DD]
+	GetHandleVerifier [0x00B9AABD+2539405]
+	GetHandleVerifier [0x00BDA78F+2800735]
+	GetHandleVerifier [0x00BD456C+2775612]
+	GetHandleVerifier [0x009C51E0+616112]
+	(No symbol) [0x008D5F8C]
+	(No symbol) [0x008D2328]
+	(No symbol) [0x008D240B]
+	(No symbol) [0x008C4FF7]
+	BaseThreadInitThunk [0x75D67D59+25]
+	RtlInitializeExceptionChain [0x7796B79B+107]
+	RtlClearBits [0x7796B71F+191]
