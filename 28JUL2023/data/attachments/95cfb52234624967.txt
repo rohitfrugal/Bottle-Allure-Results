@@ -1,0 +1,7 @@
+ERROR    Product_management:ProductManagementPage.py:455 Unable to Find Name field : 'str' object is not callable
+ERROR    Product_management:ProductManagementPage.py:461 Unable to Find category field : 'str' object is not callable
+ERROR    Product_management:ProductManagementPage.py:467 Unable to Find Tag field : 'str' object is not callable
+ERROR    Product_management:ProductManagementPage.py:473 Unable to Find Hardware field : 'str' object is not callable
+ERROR    Product_management:ProductManagementPage.py:479 Unable to Find Lining field : 'str' object is not callable
+ERROR    Product_management:ProductManagementPage.py:488 Unable to Find Polyfill field : 'str' object is not callable
+ERROR    Product_management:ProductManagementPage.py:497 Unable to Find rib field : 'str' object is not callable
