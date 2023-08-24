@@ -1,1 +1,0 @@
-ERROR    TestInventDashboard:TestInventDashboard.py:38 Assertion failed here while finding element. False != True : Verification Failed to mismatch title.

@@ -1,1 +1,0 @@
-ERROR    TestInventory:TestInventory.py:46 Assertion failed here while finding element. None != True : Adding a New Category Failed

@@ -1,2 +1,0 @@
-ERROR    __init__:InventoryPage.py:103 (Automation) Item 10 not found
-ERROR    __init__:InventoryPage.py:103 (Automation) Item 9 not found
