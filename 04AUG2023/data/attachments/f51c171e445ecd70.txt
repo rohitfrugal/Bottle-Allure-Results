@@ -1,1 +1,0 @@
-WARNING  selenium.webdriver.common.selenium_manager:selenium_manager.py:107 Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)

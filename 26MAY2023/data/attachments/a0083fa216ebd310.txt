@@ -1,4 +1,0 @@
-ERROR    TestDashboard:TestDashboard.py:58 Assertion failed here while finding element. '262' != '346'
-- 262
-+ 346
- : Verification of total order tile failed.

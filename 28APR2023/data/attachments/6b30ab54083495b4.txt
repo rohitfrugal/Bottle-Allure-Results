@@ -1,2 +1,0 @@
-ERROR    __init__:LoginPage.py:50 Exception occurred while entering user ID: object of type 'NoneType' has no len()
-ERROR    __init__:LoginPage.py:57 Exception occurred while entering password: object of type 'NoneType' has no len()
