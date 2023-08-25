@@ -1,0 +1,26 @@
+ERROR    Inventory:InventoryPage.py:453 Couldn't find the Element to Input Search : 
+ Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Search Category']"}
+  (Session info: chrome=116.0.5845.111)
+Stacktrace:
+	GetHandleVerifier [0x00E437C3+48947]
+	(No symbol) [0x00DD8551]
+	(No symbol) [0x00CDC92D]
+	(No symbol) [0x00D09E38]
+	(No symbol) [0x00D09EFB]
+	(No symbol) [0x00D38EF2]
+	(No symbol) [0x00D250D4]
+	(No symbol) [0x00D375DA]
+	(No symbol) [0x00D24E86]
+	(No symbol) [0x00D016C7]
+	(No symbol) [0x00D0284D]
+	GetHandleVerifier [0x0108FDF9+2458985]
+	GetHandleVerifier [0x010D744F+2751423]
+	GetHandleVerifier [0x010D1361+2726609]
+	GetHandleVerifier [0x00EC0680+560624]
+	(No symbol) [0x00DE238C]
+	(No symbol) [0x00DDE268]
+	(No symbol) [0x00DDE392]
+	(No symbol) [0x00DD10B7]
+	BaseThreadInitThunk [0x76767BA9+25]
+	RtlInitializeExceptionChain [0x779BB79B+107]
+	RtlClearBits [0x779BB71F+191]
